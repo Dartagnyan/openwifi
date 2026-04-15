@@ -17,7 +17,7 @@
 - [Wrong memory size on adrv9361z7035 SoM](#Wrong-memory-size-on-adrv9361z7035-SoM)
 - [Unsupported PRODUCT_ID 0xFF](#Unsupported-PRODUCT_ID-0xFF)
 
-## Network issue in quick star
+## Network issue in quick start
 
 - OS: Ubuntu 22 LTS
 - image: [openwifi img](https://drive.google.com/file/d/1fb8eJGJAntOciCiGFVLfQs7m7ucRtSWD/view?usp=share_link)
